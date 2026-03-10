@@ -21,12 +21,12 @@ A Python-based command line tool that scans nearby WiFi networks and analyzes th
 ## Project Structure
 
 wifi-network-analyzer/
-│
-├── main.py
-├── scanner.py
-├── security_check.py
-├── requirements.txt
-└── README.md
+
+-main.py
+-scanner.py
+-security_check.py
+-requirements.txt
+-README.md
 
 ## Installation
 
@@ -38,3 +38,4 @@ pip install -r requirements.txt
 ## Run the main.py file 
 
 python main.py
+
